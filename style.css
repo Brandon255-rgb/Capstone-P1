@@ -49,3 +49,12 @@ button:hover {
 	color: white;
 	cursor: pointer;
 }
+
+/*about page*/
+.about-page h1 {
+	margin-bottom: 2rem;
+}
+/*contact page*/
+.contact-page h1 {
+	margin-bottom: 1.5rem;
+}
